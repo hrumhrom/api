@@ -24,7 +24,7 @@ http://hrumhrom.ru/public/api/1/%ресурс%
 | users   | Игроки        |
 | zones   | Игровые зоны  |
 
-Используйте в качества логина `hrumhrom` и в качестве пароля `ваш api ключ команды`. Пример вызова API с помощью библиотеки [curl](http://curl.haxx.se/):
+Используйте в качестве логина `hrumhrom` и в качестве пароля `ваш api ключ команды`. Пример вызова API с помощью библиотеки [curl](http://curl.haxx.se/):
 
 ```
 curl http://hrumhrom.ru/public/api/1/targets --user hrumhrom:%ваш_api_ключ_команды%
